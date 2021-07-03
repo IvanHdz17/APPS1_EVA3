@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_19_MEDIA_PLAYER"
+include ':app'

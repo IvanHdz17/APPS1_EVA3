@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_21_BROADCASTRECEIVER"
+include ':app'
